@@ -18,14 +18,21 @@ body{
     margin: 1em
 }
 
-.search{
+.search-bar{
     display: flex;
     align-items: center;
     justify-content: space-around;
+    width: 100%;
+}
+
+.button{
+    width: 100%;
+    background-color: greenyellow;
+
 }
 
 .city{
-
+    
 }
 
 .temp{
